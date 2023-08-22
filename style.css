@@ -1,9 +1,9 @@
 body {
-    font-family: Rubik Wet Paint;
     font-family: Smokum;
     background-size: cover;
     text-align: center;
     height: 100vh;
+    
 }
 
 
@@ -28,13 +28,13 @@ body {
 }
 
 p {
-      font-family: Smokum;
-    background-size: cover;
-    text-align: center;
-    height: 100vh;
+    color: #C3E79A;
+    font-family: Smokum;
+    font-size: 2rem;
 }
 
 button {
+
 
     font-family: Smokum;
     background-size: cover;
