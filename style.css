@@ -34,12 +34,14 @@ p {
 }
 
 button {
-
-
-    background-color: #D4D46A;
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
     font-weight: bold;
-    background-size: cover;
-    text-align: center;
-    height: 40px;
-    width: 80px;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
 }
